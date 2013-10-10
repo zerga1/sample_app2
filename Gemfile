@@ -36,5 +36,5 @@ group :production do
   gem 'rails_12factor', '0.0.2'
 end
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
-gem 'therubyracer', platforms: :ruby
+#gem 'therubyracer', platforms: :ruby
 
